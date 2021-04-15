@@ -1,6 +1,6 @@
 # The-Lord-of-the-Rings
-This is my first project made in Java 11.
-It's a non-interactive game where the player has to create one army of heroes and one army of beasts(you can choose their life and armor and their type)
+This is my first project made in Java 11./n
+It's a non-interactive game where the player has to create one army of heroes and one army of beasts(you can choose their life and armor and their type)/
 and after pressing the fight button the armies will fight following an algorithm which will draw a random number representing their attack for each character.
 The algorithm is made so the heroes have a better chance of drawing a bigger attack number.
 The type of the character matters too:
